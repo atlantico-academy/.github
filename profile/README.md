@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/1690232/178545683-89af0d7a-befd-4d95-8bfe-e441a6a69430.png" data-canonical-src="https://user-images.githubusercontent.com/1690232/178545683-89af0d7a-befd-4d95-8bfe-e441a6a69430.png" width="400"/>
-</p>
 
+<img align="right" src="https://user-images.githubusercontent.com/1690232/178545683-89af0d7a-befd-4d95-8bfe-e441a6a69430.png" data-canonical-src="https://user-images.githubusercontent.com/1690232/178545683-89af0d7a-befd-4d95-8bfe-e441a6a69430.png" width="400"/>
 
 <h1 align="center">Atlântico Academy Bootcamp</h1>
 
